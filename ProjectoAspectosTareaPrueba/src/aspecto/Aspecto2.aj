@@ -47,9 +47,6 @@ private boolean autenticarbooleano() {
 			System.out.println("Cambio de color a AMARILLO " );
 		}
  }
-	
-	
-
 }
 	
 	
